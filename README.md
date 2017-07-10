@@ -18,8 +18,9 @@ If you're new to .NET Core, you can get started in 10 minutes:
 
 ## Getting help
 
-- [File a general .NET Core issue](https://github.com/dotnet/core/issues)
-- [File a more specific issue](Documentation/core-repos.md)
+- [File a .NET Core issue](https://github.com/dotnet/core/issues)
+- [File an ASP.NET Core issue](https://github.com/aspnet/home/issues)
+- [File an issue for other components](Documentation/core-repos.md)
 - [Ask on Stack Overflow](https://stackoverflow.com/questions/ask)
 - [Contact Microsoft Support](https://support.microsoft.com/contactus/)
 
